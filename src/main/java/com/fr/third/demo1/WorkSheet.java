@@ -1,4 +1,4 @@
-package com.fr.third.demo;
+package com.fr.third.demo1;
 
 import org.redisson.api.annotation.REntity;
 import org.redisson.api.annotation.RId;

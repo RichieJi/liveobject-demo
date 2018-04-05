@@ -1,11 +1,11 @@
-package com.fr.third.demo;
+package com.fr.third.demo1;
 
 import org.redisson.Redisson;
 import org.redisson.api.RLiveObjectService;
 import org.redisson.api.RedissonClient;
 import org.redisson.config.Config;
 
-public class Demo {
+public class DemoWrite {
 
     public static void main(String... args) {
         Config config = new Config();
